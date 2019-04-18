@@ -1,0 +1,32 @@
+.el-input {
+  width: 230px;
+}
+
+.el-range-editor  {
+  width: 230px !important
+}
+
+.w100px> .el-input {
+  width: 100px !important;
+  min-width: 100px !important;
+}
+
+.el-range-editor.el-input__inner {
+  padding: 3px 5px 3px 6px
+}
+
+.el-form-item {
+  margin-bottom: 23px !important
+}
+
+.el-select-dropdown {
+  min-width: 230px !important;
+}
+
+.el-date-editor.el-input, .el-date-editor.el-input__inner {
+  width: 230px;
+}
+
+.el-input-number .el-input {
+  width: 200px;
+}
